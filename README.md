@@ -655,9 +655,9 @@ In accordance with the case study requirements, the following AI tools were used
 
 For questions about this submission:
 
-**Candidate:** [Your Name]  
-**Email:** [Your Email]  
-**GitHub:** [Your GitHub Profile]  
+**Candidate:** M. Luthfi Alfatih  
+**Email:** luthfialfatih@gmail.com  
+**GitHub:** github.com/upilup  
 **Submission Date:** November 8, 2025
 
 ---
@@ -692,12 +692,12 @@ This case study submission is provided for evaluation purposes only. All code an
 - [x] Privacy compliance addressed
 
 **Video:**
-- [ ] 5-minute explanation video (to be recorded)
+- [x] 5-minute explanation video - [Link](https://drive.google.com/drive/folders/1XTtUnhBtl0H0FQwWHsJmUscggu0a8KQB?usp=sharing)
 
 **Submission:**
-- [ ] GitHub repository link in Google Drive
-- [ ] Video uploaded to Google Drive
-- [ ] All files confirmed accessible
+- [x] GitHub repository link in Google Drive
+- [x] Video uploaded to Google Drive
+- [x] All files confirmed accessible
 
 ---
 
